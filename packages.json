@@ -1,0 +1,52 @@
+[
+	{
+		"package": "LEEF",
+		"url": "https://github.com/LEEF-UZH/LEEF",
+		"branch": "master"
+	},
+	{
+		"package": "LEEF",
+		"url": "https://github.com/LEEF-UZH/LEEF",
+		"branch": "master"
+	},
+	{
+		"package": "LEEF.measurement.bemovi",
+		"url": "https://github.com/LEEF-UZH/LEEF.measurement.bemovi",
+		"branch": "master"
+	},
+	{
+		"package": "bemovi.LEEF",
+		"url": "https://github.com/LEEF-UZH/bemovi",
+		"branch": "LEEF"
+	},
+	{
+		"package": "LEEF.measurement.flowcytometer",
+		"url": "https://github.com/LEEF-UZH/LEEF.measurement.flowcytometer",
+		"branch": "master"
+	},
+	{
+		"package": "LEEF.measurement.manualcount",
+		"url": "https://github.com/LEEF-UZH/LEEF.measurement.manualcount",
+		"branch": "master"
+	},
+	{
+		"package": "LEEF.measurement.o2meter",
+		"url": "https://github.com/LEEF-UZH/LEEF.measurement.o2meter",
+		"branch": "master"
+	},
+	{
+		"package": "LEEF.measurement.flowcam",
+		"url": "https://github.com/LEEF-UZH/LEEF.measurement.flowcam",
+		"branch": "master"
+	},
+	{
+		"package": "LEEF.archive.default",
+		"url": "https://github.com/LEEF-UZH/LEEF.archive.default",
+		"branch": "master"
+	},
+	{
+		"package": "LEEF.backend.sqlite",
+		"url": "https://github.com/LEEF-UZH/LEEF.backend.sqlite",
+		"branch": "master"
+	}
+]

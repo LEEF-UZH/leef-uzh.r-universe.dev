@@ -5,11 +5,6 @@
 		"branch": "master"
 	},
 	{
-		"package": "LEEF",
-		"url": "https://github.com/LEEF-UZH/LEEF",
-		"branch": "master"
-	},
-	{
 		"package": "LEEF.measurement.bemovi",
 		"url": "https://github.com/LEEF-UZH/LEEF.measurement.bemovi",
 		"branch": "master"

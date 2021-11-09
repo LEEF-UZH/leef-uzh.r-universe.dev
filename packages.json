@@ -43,5 +43,10 @@
 		"package": "LEEF.backend.sqlite",
 		"url": "https://github.com/LEEF-UZH/LEEF.backend.sqlite",
 		"branch": "master"
+	},
+	{
+		"package": "LEEF.analysis",
+		"url": "https://github.com/LEEF-UZH/LEEF.analysis",
+		"branch": "master"
 	}
 ]

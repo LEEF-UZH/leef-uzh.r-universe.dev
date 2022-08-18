@@ -48,5 +48,10 @@
 		"package": "LEEF.analysis",
 		"url": "https://github.com/LEEF-UZH/LEEF.analysis",
 		"branch": "master"
+	},
+	{
+		"package": "zenDep",
+		"url": "https://github.com/LEEF-UZH/zenDep",
+		"branch": "master"
 	}
 ]
